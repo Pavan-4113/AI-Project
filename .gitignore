@@ -1,0 +1,11 @@
+
+#create virtual environment
+.venv/
+venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Local data files
+data/expenses.json
